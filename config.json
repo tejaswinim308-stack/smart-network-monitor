@@ -1,0 +1,4 @@
+{
+    "interval": 10,
+    "latency_threshold": 100
+}

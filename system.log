@@ -1,0 +1,531 @@
+2026-02-23 22:04:47,149 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:04:47,202 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:04:47,488 - INFO - 192.168.1.1 is UP with latency 225
+2026-02-23 22:04:47,497 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:04:57,938 - INFO - 8.8.8.8 is UP with latency 268
+2026-02-23 22:04:57,948 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:04:58,076 - INFO - 1.1.1.1 is UP with latency 43
+2026-02-23 22:04:58,236 - INFO - 192.168.1.1 is UP with latency 98
+2026-02-23 22:05:08,417 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:05:08,583 - INFO - 1.1.1.1 is UP with latency 113
+2026-02-23 22:05:08,588 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:05:09,309 - INFO - 192.168.1.1 is UP with latency 658
+2026-02-23 22:05:09,316 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:05:19,515 - INFO - 8.8.8.8 is UP with latency 20
+2026-02-23 22:05:20,381 - INFO - 1.1.1.1 is UP with latency 784
+2026-02-23 22:05:20,392 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:05:20,465 - INFO - 192.168.1.1 is UP with latency 16
+2026-02-23 22:05:30,655 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:05:30,722 - INFO - 1.1.1.1 is UP with latency 13
+2026-02-23 22:05:31,011 - INFO - 192.168.1.1 is UP with latency 230
+2026-02-23 22:05:31,018 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:05:41,200 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:05:41,709 - INFO - 1.1.1.1 is UP with latency 401
+2026-02-23 22:05:41,720 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:05:41,998 - INFO - 192.168.1.1 is UP with latency 105
+2026-02-23 22:05:42,038 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:05:52,528 - INFO - 8.8.8.8 is UP with latency 264
+2026-02-23 22:05:52,540 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:05:52,610 - INFO - 1.1.1.1 is UP with latency 15
+2026-02-23 22:05:52,719 - INFO - 192.168.1.1 is UP with latency 27
+2026-02-23 22:06:02,922 - INFO - 8.8.8.8 is UP with latency 43
+2026-02-23 22:06:03,035 - INFO - 1.1.1.1 is UP with latency 51
+2026-02-23 22:06:03,139 - INFO - 192.168.1.1 is UP with latency 44
+2026-02-23 22:06:13,346 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:06:13,445 - INFO - 1.1.1.1 is UP with latency 6
+2026-02-23 22:06:13,571 - INFO - 192.168.1.1 is UP with latency 4
+2026-02-23 22:06:24,005 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:06:24,124 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:06:24,236 - INFO - 192.168.1.1 is UP with latency 6
+2026-02-23 22:06:34,935 - INFO - 8.8.8.8 is UP with latency 120
+2026-02-23 22:06:34,958 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:06:35,060 - INFO - 1.1.1.1 is UP with latency 6
+2026-02-23 22:06:35,170 - INFO - 192.168.1.1 is UP with latency 11
+2026-02-23 22:06:45,974 - INFO - 8.8.8.8 is UP with latency 34
+2026-02-23 22:06:46,367 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:06:46,492 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:06:56,889 - INFO - 8.8.8.8 is UP with latency 19
+2026-02-23 22:06:57,129 - INFO - 1.1.1.1 is UP with latency 152
+2026-02-23 22:06:57,142 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:06:57,221 - INFO - 192.168.1.1 is UP with latency 11
+2026-02-23 22:07:07,486 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:07:07,588 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:07:07,692 - INFO - 192.168.1.1 is UP with latency 4
+2026-02-23 22:07:17,950 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:07:18,706 - INFO - 1.1.1.1 is UP with latency 674
+2026-02-23 22:07:18,728 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:07:18,813 - INFO - 192.168.1.1 is UP with latency 9
+2026-02-23 22:07:29,243 - INFO - 8.8.8.8 is UP with latency 130
+2026-02-23 22:07:29,263 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:07:30,014 - INFO - 1.1.1.1 is UP with latency 667
+2026-02-23 22:07:30,029 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:07:30,128 - INFO - 192.168.1.1 is UP with latency 4
+2026-02-23 22:07:40,512 - INFO - 8.8.8.8 is UP with latency 21
+2026-02-23 22:07:40,648 - INFO - 1.1.1.1 is UP with latency 7
+2026-02-23 22:07:41,152 - INFO - 192.168.1.1 is UP with latency 386
+2026-02-23 22:07:41,170 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:07:51,452 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:07:51,712 - INFO - 1.1.1.1 is UP with latency 14
+2026-02-23 22:07:51,842 - INFO - 192.168.1.1 is UP with latency 6
+2026-02-23 22:08:02,332 - INFO - 8.8.8.8 is UP with latency 20
+2026-02-23 22:08:02,465 - INFO - 1.1.1.1 is UP with latency 8
+2026-02-23 22:08:02,626 - INFO - 192.168.1.1 is UP with latency 4
+2026-02-23 22:08:13,006 - INFO - 8.8.8.8 is UP with latency 19
+2026-02-23 22:08:13,151 - INFO - 1.1.1.1 is UP with latency 6
+2026-02-23 22:08:13,443 - INFO - 192.168.1.1 is UP with latency 196
+2026-02-23 22:08:13,462 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:08:23,675 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:08:23,762 - INFO - 1.1.1.1 is UP with latency 8
+2026-02-23 22:08:23,834 - INFO - 192.168.1.1 is UP with latency 9
+2026-02-23 22:08:34,085 - INFO - 8.8.8.8 is UP with latency 44
+2026-02-23 22:08:34,218 - INFO - 1.1.1.1 is UP with latency 60
+2026-02-23 22:08:34,659 - INFO - 192.168.1.1 is UP with latency 377
+2026-02-23 22:08:34,690 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:08:45,499 - INFO - 8.8.8.8 is UP with latency 583
+2026-02-23 22:08:45,545 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:08:45,692 - INFO - 1.1.1.1 is UP with latency 10
+2026-02-23 22:08:45,900 - INFO - 192.168.1.1 is UP with latency 129
+2026-02-23 22:08:45,908 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:08:56,742 - INFO - 8.8.8.8 is UP with latency 581
+2026-02-23 22:08:56,751 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:08:56,807 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:08:56,945 - INFO - 192.168.1.1 is UP with latency 63
+2026-02-23 22:09:07,223 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:09:07,314 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:09:07,375 - INFO - 192.168.1.1 is UP with latency 1
+2026-02-23 22:09:17,579 - INFO - 8.8.8.8 is UP with latency 20
+2026-02-23 22:09:17,660 - INFO - 1.1.1.1 is UP with latency 22
+2026-02-23 22:09:17,992 - INFO - 192.168.1.1 is UP with latency 253
+2026-02-23 22:09:18,000 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:09:28,222 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:09:28,280 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:09:28,352 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:09:38,821 - INFO - 8.8.8.8 is UP with latency 44
+2026-02-23 22:09:39,172 - INFO - 1.1.1.1 is UP with latency 244
+2026-02-23 22:09:39,187 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:09:39,669 - INFO - 192.168.1.1 is UP with latency 365
+2026-02-23 22:09:39,675 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:09:50,219 - INFO - 8.8.8.8 is UP with latency 312
+2026-02-23 22:09:50,226 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:09:50,387 - INFO - 1.1.1.1 is UP with latency 90
+2026-02-23 22:09:50,539 - INFO - 192.168.1.1 is UP with latency 8
+2026-02-23 22:10:00,875 - INFO - 8.8.8.8 is UP with latency 49
+2026-02-23 22:10:01,018 - INFO - 1.1.1.1 is UP with latency 42
+2026-02-23 22:10:01,144 - INFO - 192.168.1.1 is UP with latency 48
+2026-02-23 22:10:11,690 - INFO - 8.8.8.8 is UP with latency 277
+2026-02-23 22:10:11,698 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:10:11,800 - INFO - 1.1.1.1 is UP with latency 37
+2026-02-23 22:10:11,868 - INFO - 192.168.1.1 is UP with latency 11
+2026-02-23 22:10:22,100 - INFO - 8.8.8.8 is UP with latency 22
+2026-02-23 22:10:22,241 - INFO - 1.1.1.1 is UP with latency 44
+2026-02-23 22:10:22,369 - INFO - 192.168.1.1 is UP with latency 43
+2026-02-23 22:10:32,943 - INFO - 8.8.8.8 is UP with latency 227
+2026-02-23 22:10:32,973 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:10:33,060 - INFO - 1.1.1.1 is UP with latency 7
+2026-02-23 22:10:33,851 - INFO - 192.168.1.1 is UP with latency 725
+2026-02-23 22:10:33,863 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:10:44,068 - INFO - 8.8.8.8 is UP with latency 22
+2026-02-23 22:10:44,860 - INFO - 1.1.1.1 is UP with latency 731
+2026-02-23 22:10:44,875 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:10:45,406 - INFO - 192.168.1.1 is UP with latency 428
+2026-02-23 22:10:45,414 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:10:56,656 - INFO - 8.8.8.8 is UP with latency 27
+2026-02-23 22:10:56,959 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:10:57,104 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:11:07,811 - INFO - 8.8.8.8 is UP with latency 537
+2026-02-23 22:11:07,827 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:11:07,883 - INFO - 1.1.1.1 is UP with latency 4
+2026-02-23 22:11:08,602 - INFO - 192.168.1.1 is UP with latency 656
+2026-02-23 22:11:08,607 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:11:19,065 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:11:19,146 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:11:19,225 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:11:29,827 - INFO - 8.8.8.8 is UP with latency 395
+2026-02-23 22:11:29,862 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:11:29,930 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:11:29,998 - INFO - 192.168.1.1 is UP with latency 10
+2026-02-23 22:11:40,462 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:11:40,767 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:11:41,073 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:11:52,199 - INFO - 8.8.8.8 is UP with latency 839
+2026-02-23 22:11:52,215 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:11:52,292 - INFO - 1.1.1.1 is UP with latency 10
+2026-02-23 22:11:52,972 - INFO - 192.168.1.1 is UP with latency 623
+2026-02-23 22:11:52,979 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:12:04,229 - INFO - 8.8.8.8 is UP with latency 713
+2026-02-23 22:12:04,236 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:12:04,376 - INFO - 1.1.1.1 is UP with latency 6
+2026-02-23 22:12:04,475 - INFO - 192.168.1.1 is UP with latency 5
+2026-02-23 22:12:14,722 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:12:14,817 - INFO - 1.1.1.1 is UP with latency 17
+2026-02-23 22:12:14,920 - INFO - 192.168.1.1 is UP with latency 15
+2026-02-23 22:12:25,239 - INFO - 8.8.8.8 is UP with latency 21
+2026-02-23 22:12:25,312 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:12:25,464 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:12:35,719 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:12:35,812 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:12:36,144 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:12:46,430 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:12:46,555 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:12:46,798 - INFO - 192.168.1.1 is UP with latency 7
+2026-02-23 22:12:57,233 - INFO - 8.8.8.8 is UP with latency 20
+2026-02-23 22:12:57,425 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:12:57,513 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:13:08,461 - INFO - 8.8.8.8 is UP with latency 705
+2026-02-23 22:13:08,470 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:13:08,540 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:13:08,670 - INFO - 192.168.1.1 is UP with latency 41
+2026-02-23 22:13:18,919 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:13:19,022 - INFO - 1.1.1.1 is UP with latency 17
+2026-02-23 22:13:19,124 - INFO - 192.168.1.1 is UP with latency 10
+2026-02-23 22:13:29,388 - INFO - 8.8.8.8 is UP with latency 21
+2026-02-23 22:13:29,494 - INFO - 1.1.1.1 is UP with latency 9
+2026-02-23 22:13:29,591 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:13:39,857 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:13:40,523 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:13:40,715 - INFO - 192.168.1.1 is UP with latency 4
+2026-02-23 22:13:51,008 - INFO - 8.8.8.8 is UP with latency 21
+2026-02-23 22:13:51,662 - INFO - 1.1.1.1 is UP with latency 523
+2026-02-23 22:13:51,674 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:13:51,989 - INFO - 192.168.1.1 is UP with latency 211
+2026-02-23 22:13:52,011 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:14:02,301 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:14:02,366 - INFO - 1.1.1.1 is UP with latency 4
+2026-02-23 22:14:02,439 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:14:12,677 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:14:12,775 - INFO - 1.1.1.1 is UP with latency 11
+2026-02-23 22:14:12,873 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:14:23,120 - INFO - 8.8.8.8 is UP with latency 19
+2026-02-23 22:14:23,237 - INFO - 1.1.1.1 is UP with latency 22
+2026-02-23 22:14:24,201 - INFO - 192.168.1.1 is UP with latency 788
+2026-02-23 22:14:24,298 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:14:34,796 - INFO - 8.8.8.8 is UP with latency 272
+2026-02-23 22:14:34,806 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:14:34,874 - INFO - 1.1.1.1 is UP with latency 4
+2026-02-23 22:14:34,944 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:14:45,168 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:14:45,265 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:14:45,346 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:14:56,471 - INFO - 8.8.8.8 is UP with latency 829
+2026-02-23 22:14:56,482 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:14:56,595 - INFO - 1.1.1.1 is UP with latency 9
+2026-02-23 22:14:56,679 - INFO - 192.168.1.1 is UP with latency 6
+2026-02-23 22:15:07,083 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:15:07,160 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:15:07,230 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:15:17,509 - INFO - 8.8.8.8 is UP with latency 23
+2026-02-23 22:15:17,623 - INFO - 1.1.1.1 is UP with latency 8
+2026-02-23 22:15:17,699 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:15:28,331 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:15:28,465 - INFO - 1.1.1.1 is UP with latency 9
+2026-02-23 22:15:28,989 - INFO - 192.168.1.1 is UP with latency 424
+2026-02-23 22:15:28,997 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:15:39,829 - INFO - 8.8.8.8 is UP with latency 23
+2026-02-23 22:15:39,964 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:15:40,185 - INFO - 192.168.1.1 is UP with latency 9
+2026-02-23 22:15:50,415 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:15:50,488 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:15:50,567 - INFO - 192.168.1.1 is UP with latency 9
+2026-02-23 22:16:00,878 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:16:01,026 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:16:01,357 - INFO - 192.168.1.1 is UP with latency 4
+2026-02-23 22:16:12,355 - INFO - 8.8.8.8 is UP with latency 798
+2026-02-23 22:16:12,366 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:16:12,433 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:16:13,161 - INFO - 192.168.1.1 is UP with latency 661
+2026-02-23 22:16:13,169 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:16:23,372 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:16:23,452 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:16:23,702 - INFO - 192.168.1.1 is UP with latency 188
+2026-02-23 22:16:23,708 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:16:34,375 - INFO - 8.8.8.8 is UP with latency 454
+2026-02-23 22:16:34,385 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:16:34,471 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:16:34,554 - INFO - 192.168.1.1 is UP with latency 10
+2026-02-23 22:16:45,142 - INFO - 8.8.8.8 is UP with latency 25
+2026-02-23 22:16:45,316 - INFO - 1.1.1.1 is UP with latency 8
+2026-02-23 22:16:45,432 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:16:55,979 - INFO - 8.8.8.8 is UP with latency 322
+2026-02-23 22:16:55,991 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:16:56,073 - INFO - 1.1.1.1 is UP with latency 6
+2026-02-23 22:16:56,154 - INFO - 192.168.1.1 is UP with latency 15
+2026-02-23 22:17:07,144 - INFO - 8.8.8.8 is UP with latency 736
+2026-02-23 22:17:07,172 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:17:07,288 - INFO - 1.1.1.1 is UP with latency 8
+2026-02-23 22:17:07,439 - INFO - 192.168.1.1 is UP with latency 16
+2026-02-23 22:17:17,955 - INFO - 8.8.8.8 is UP with latency 24
+2026-02-23 22:17:18,112 - INFO - 1.1.1.1 is UP with latency 10
+2026-02-23 22:17:18,208 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:17:28,478 - INFO - 8.8.8.8 is UP with latency 24
+2026-02-23 22:17:28,615 - INFO - 1.1.1.1 is UP with latency 6
+2026-02-23 22:17:28,743 - INFO - 192.168.1.1 is UP with latency 4
+2026-02-23 22:17:39,466 - INFO - 8.8.8.8 is UP with latency 295
+2026-02-23 22:17:39,508 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:17:39,874 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:17:40,127 - INFO - 192.168.1.1 is UP with latency 5
+2026-02-23 22:17:50,379 - INFO - 8.8.8.8 is UP with latency 19
+2026-02-23 22:17:50,481 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:17:50,585 - INFO - 192.168.1.1 is UP with latency 13
+2026-02-23 22:18:01,281 - INFO - 8.8.8.8 is UP with latency 19
+2026-02-23 22:18:01,368 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:18:01,450 - INFO - 192.168.1.1 is UP with latency 4
+2026-02-23 22:18:11,710 - INFO - 8.8.8.8 is UP with latency 19
+2026-02-23 22:18:11,798 - INFO - 1.1.1.1 is UP with latency 4
+2026-02-23 22:18:12,060 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:18:22,546 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:18:22,627 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:18:22,712 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:18:33,646 - INFO - 8.8.8.8 is UP with latency 565
+2026-02-23 22:18:33,655 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:18:33,737 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:18:33,805 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:18:44,083 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:18:44,212 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:18:44,346 - INFO - 192.168.1.1 is UP with latency 4
+2026-02-23 22:18:54,591 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:18:54,674 - INFO - 1.1.1.1 is UP with latency 9
+2026-02-23 22:18:55,320 - INFO - 192.168.1.1 is UP with latency 494
+2026-02-23 22:18:55,393 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:19:05,694 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:19:05,813 - INFO - 1.1.1.1 is UP with latency 9
+2026-02-23 22:19:05,887 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:19:16,158 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:19:16,249 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:19:16,301 - INFO - 192.168.1.1 is UP with latency 1
+2026-02-23 22:19:26,505 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:19:26,913 - INFO - 1.1.1.1 is UP with latency 340
+2026-02-23 22:19:26,930 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:19:26,995 - INFO - 192.168.1.1 is UP with latency 9
+2026-02-23 22:19:41,084 - WARNING - 8.8.8.8 is DOWN
+2026-02-23 22:19:45,666 - ERROR - Email failed for 8.8.8.8: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials d9443c01a7336-2ad750275dbsm99486195ad.63 - gsmtp')
+2026-02-23 22:19:45,893 - INFO - 1.1.1.1 is UP with latency 14
+2026-02-23 22:19:45,976 - INFO - 192.168.1.1 is UP with latency 9
+2026-02-23 22:19:56,176 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:19:56,252 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:19:56,381 - INFO - 192.168.1.1 is UP with latency 9
+2026-02-23 22:20:06,867 - INFO - 8.8.8.8 is UP with latency 153
+2026-02-23 22:20:06,879 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:20:07,169 - INFO - 1.1.1.1 is UP with latency 212
+2026-02-23 22:20:07,179 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:20:07,286 - INFO - 192.168.1.1 is UP with latency 14
+2026-02-23 22:20:17,835 - INFO - 8.8.8.8 is UP with latency 217
+2026-02-23 22:20:17,850 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:20:17,929 - INFO - 1.1.1.1 is UP with latency 7
+2026-02-23 22:20:18,019 - INFO - 192.168.1.1 is UP with latency 18
+2026-02-23 22:20:28,513 - INFO - 8.8.8.8 is UP with latency 210
+2026-02-23 22:20:28,527 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:20:28,619 - INFO - 1.1.1.1 is UP with latency 7
+2026-02-23 22:20:28,826 - INFO - 192.168.1.1 is UP with latency 9
+2026-02-23 22:20:39,212 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:20:39,289 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:20:39,363 - INFO - 192.168.1.1 is UP with latency 4
+2026-02-23 22:20:49,600 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:20:49,663 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:20:49,725 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:21:00,324 - INFO - 8.8.8.8 is UP with latency 383
+2026-02-23 22:21:00,333 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:21:00,842 - INFO - 1.1.1.1 is UP with latency 125
+2026-02-23 22:21:00,859 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:21:00,979 - INFO - 192.168.1.1 is UP with latency 21
+2026-02-23 22:21:11,792 - INFO - 8.8.8.8 is UP with latency 621
+2026-02-23 22:21:11,803 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:21:11,861 - INFO - 1.1.1.1 is UP with latency 7
+2026-02-23 22:21:11,959 - INFO - 192.168.1.1 is UP with latency 24
+2026-02-23 22:21:22,155 - INFO - 8.8.8.8 is UP with latency 19
+2026-02-23 22:21:22,233 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:21:23,026 - INFO - 192.168.1.1 is UP with latency 722
+2026-02-23 22:21:23,036 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:21:33,294 - INFO - 8.8.8.8 is UP with latency 20
+2026-02-23 22:21:33,408 - INFO - 1.1.1.1 is UP with latency 24
+2026-02-23 22:21:34,136 - INFO - 192.168.1.1 is UP with latency 658
+2026-02-23 22:21:34,144 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:21:44,378 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:21:44,460 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:21:44,552 - INFO - 192.168.1.1 is UP with latency 7
+2026-02-23 22:21:54,801 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:21:55,530 - INFO - 1.1.1.1 is UP with latency 664
+2026-02-23 22:21:55,536 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:21:56,230 - INFO - 192.168.1.1 is UP with latency 629
+2026-02-23 22:21:56,244 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:22:06,527 - INFO - 8.8.8.8 is UP with latency 98
+2026-02-23 22:22:06,609 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:22:06,674 - INFO - 192.168.1.1 is UP with latency 8
+2026-02-23 22:22:17,627 - INFO - 8.8.8.8 is UP with latency 754
+2026-02-23 22:22:17,637 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:22:17,728 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:22:17,816 - INFO - 192.168.1.1 is UP with latency 13
+2026-02-23 22:22:28,049 - INFO - 8.8.8.8 is UP with latency 21
+2026-02-23 22:22:28,139 - INFO - 1.1.1.1 is UP with latency 6
+2026-02-23 22:22:28,212 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:22:38,700 - INFO - 8.8.8.8 is UP with latency 235
+2026-02-23 22:22:39,014 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:22:39,099 - INFO - 1.1.1.1 is UP with latency 7
+2026-02-23 22:22:39,159 - INFO - 192.168.1.1 is UP with latency 5
+2026-02-23 22:22:49,333 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:22:49,390 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:22:49,445 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:22:59,661 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:22:59,727 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:22:59,806 - INFO - 192.168.1.1 is UP with latency 23
+2026-02-23 22:23:10,569 - INFO - 8.8.8.8 is UP with latency 461
+2026-02-23 22:23:10,577 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:23:10,633 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:23:11,418 - INFO - 192.168.1.1 is UP with latency 712
+2026-02-23 22:23:11,427 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:23:21,632 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:23:21,719 - INFO - 1.1.1.1 is UP with latency 18
+2026-02-23 22:23:22,607 - INFO - 192.168.1.1 is UP with latency 806
+2026-02-23 22:23:22,621 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:23:33,106 - INFO - 8.8.8.8 is UP with latency 264
+2026-02-23 22:23:33,119 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:23:33,231 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:23:33,919 - INFO - 192.168.1.1 is UP with latency 590
+2026-02-23 22:23:33,931 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:23:44,467 - INFO - 8.8.8.8 is UP with latency 279
+2026-02-23 22:23:44,478 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:23:44,616 - INFO - 1.1.1.1 is UP with latency 43
+2026-02-23 22:23:44,718 - INFO - 192.168.1.1 is UP with latency 15
+2026-02-23 22:23:55,092 - INFO - 8.8.8.8 is UP with latency 19
+2026-02-23 22:23:55,181 - INFO - 1.1.1.1 is UP with latency 6
+2026-02-23 22:23:55,270 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:24:05,678 - INFO - 8.8.8.8 is UP with latency 203
+2026-02-23 22:24:05,715 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:24:05,827 - INFO - 1.1.1.1 is UP with latency 4
+2026-02-23 22:24:05,920 - INFO - 192.168.1.1 is UP with latency 22
+2026-02-23 22:24:16,145 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:24:16,210 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:24:16,280 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:24:26,742 - INFO - 8.8.8.8 is UP with latency 134
+2026-02-23 22:24:26,788 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:24:26,922 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:24:26,986 - INFO - 192.168.1.1 is UP with latency 10
+2026-02-23 22:24:37,254 - INFO - 8.8.8.8 is UP with latency 24
+2026-02-23 22:24:37,359 - INFO - 1.1.1.1 is UP with latency 15
+2026-02-23 22:24:37,459 - INFO - 192.168.1.1 is UP with latency 14
+2026-02-23 22:24:47,667 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:24:47,723 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:24:47,777 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:24:58,068 - INFO - 8.8.8.8 is UP with latency 72
+2026-02-23 22:24:58,510 - INFO - 1.1.1.1 is UP with latency 363
+2026-02-23 22:24:58,517 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:24:59,171 - INFO - 192.168.1.1 is UP with latency 595
+2026-02-23 22:24:59,182 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:25:09,411 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:25:09,508 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:25:09,584 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:25:19,769 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:25:20,554 - INFO - 1.1.1.1 is UP with latency 722
+2026-02-23 22:25:20,565 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:25:20,626 - INFO - 192.168.1.1 is UP with latency 1
+2026-02-23 22:25:31,158 - INFO - 8.8.8.8 is UP with latency 289
+2026-02-23 22:25:31,168 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:25:31,451 - INFO - 1.1.1.1 is UP with latency 77
+2026-02-23 22:25:31,549 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:25:41,747 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:25:41,805 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:25:41,858 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:25:52,125 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:25:52,207 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:25:52,278 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:26:02,549 - INFO - 8.8.8.8 is UP with latency 21
+2026-02-23 22:26:02,667 - INFO - 1.1.1.1 is UP with latency 6
+2026-02-23 22:26:02,728 - INFO - 192.168.1.1 is UP with latency 9
+2026-02-23 22:26:12,913 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:26:13,025 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:26:13,126 - INFO - 192.168.1.1 is UP with latency 6
+2026-02-23 22:26:23,356 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:26:23,426 - INFO - 1.1.1.1 is UP with latency 4
+2026-02-23 22:26:23,502 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:26:34,242 - INFO - 8.8.8.8 is UP with latency 532
+2026-02-23 22:26:34,250 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:26:34,312 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:26:34,388 - INFO - 192.168.1.1 is UP with latency 14
+2026-02-23 22:26:44,579 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:26:44,637 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:26:44,690 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:26:55,053 - INFO - 8.8.8.8 is UP with latency 25
+2026-02-23 22:26:55,149 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:26:55,255 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:27:05,484 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:27:05,566 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:27:05,647 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:27:17,386 - INFO - 8.8.8.8 is UP with latency 1555
+2026-02-23 22:27:17,396 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:27:17,448 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:27:17,744 - INFO - 192.168.1.1 is UP with latency 234
+2026-02-23 22:27:17,754 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:27:28,136 - INFO - 8.8.8.8 is UP with latency 217
+2026-02-23 22:27:28,147 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:27:28,278 - INFO - 1.1.1.1 is UP with latency 45
+2026-02-23 22:27:28,421 - INFO - 192.168.1.1 is UP with latency 55
+2026-02-23 22:27:38,764 - INFO - 8.8.8.8 is UP with latency 130
+2026-02-23 22:27:38,773 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:27:39,195 - INFO - 1.1.1.1 is UP with latency 341
+2026-02-23 22:27:39,309 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:27:39,407 - INFO - 192.168.1.1 is UP with latency 11
+2026-02-23 22:27:49,653 - INFO - 8.8.8.8 is UP with latency 15
+2026-02-23 22:27:49,748 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:27:49,879 - INFO - 192.168.1.1 is UP with latency 6
+2026-02-23 22:28:00,312 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:28:00,402 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:28:00,464 - INFO - 192.168.1.1 is UP with latency 8
+2026-02-23 22:28:10,642 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:28:10,698 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:28:10,755 - INFO - 192.168.1.1 is UP with latency 3
+2026-02-23 22:28:20,975 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:28:21,045 - INFO - 1.1.1.1 is UP with latency 6
+2026-02-23 22:28:21,124 - INFO - 192.168.1.1 is UP with latency 16
+2026-02-23 22:28:31,500 - INFO - 8.8.8.8 is UP with latency 166
+2026-02-23 22:28:31,511 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:28:32,059 - INFO - 1.1.1.1 is UP with latency 492
+2026-02-23 22:28:32,066 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:28:32,254 - INFO - 192.168.1.1 is UP with latency 113
+2026-02-23 22:28:32,281 - WARNING - High latency detected for 192.168.1.1
+2026-02-23 22:28:42,502 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:28:42,563 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:28:42,623 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:28:54,827 - INFO - 8.8.8.8 is UP with latency 72
+2026-02-23 22:28:55,149 - INFO - 1.1.1.1 is UP with latency 265
+2026-02-23 22:28:55,154 - WARNING - High latency detected for 1.1.1.1
+2026-02-23 22:28:55,259 - INFO - 192.168.1.1 is UP with latency 47
+2026-02-23 22:29:05,561 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:29:05,818 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:29:05,890 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:29:16,091 - INFO - 8.8.8.8 is UP with latency 20
+2026-02-23 22:29:16,170 - INFO - 1.1.1.1 is UP with latency 2
+2026-02-23 22:29:16,230 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:29:26,627 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:29:26,705 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:29:26,783 - INFO - 192.168.1.1 is UP with latency 10
+2026-02-23 22:29:37,509 - INFO - 8.8.8.8 is UP with latency 17
+2026-02-23 22:29:37,610 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:29:37,689 - INFO - 192.168.1.1 is UP with latency 7
+2026-02-23 22:29:48,382 - INFO - 8.8.8.8 is UP with latency 16
+2026-02-23 22:29:48,464 - INFO - 1.1.1.1 is UP with latency 10
+2026-02-23 22:29:48,714 - INFO - 192.168.1.1 is UP with latency 1
+2026-02-23 22:30:00,393 - INFO - 8.8.8.8 is UP with latency 94
+2026-02-23 22:30:00,846 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:30:01,315 - INFO - 192.168.1.1 is UP with latency 10
+2026-02-23 22:30:11,573 - INFO - 8.8.8.8 is UP with latency 36
+2026-02-23 22:30:11,695 - INFO - 1.1.1.1 is UP with latency 15
+2026-02-23 22:30:11,813 - INFO - 192.168.1.1 is UP with latency 27
+2026-02-23 22:30:22,129 - INFO - 8.8.8.8 is UP with latency 19
+2026-02-23 22:30:22,196 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:30:22,252 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:30:32,397 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:30:32,454 - INFO - 1.1.1.1 is UP with latency 6
+2026-02-23 22:30:32,503 - INFO - 192.168.1.1 is UP with latency 2
+2026-02-23 22:30:43,090 - INFO - 8.8.8.8 is UP with latency 277
+2026-02-23 22:30:43,100 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:30:43,238 - INFO - 1.1.1.1 is UP with latency 53
+2026-02-23 22:30:43,355 - INFO - 192.168.1.1 is UP with latency 44
+2026-02-23 22:30:54,053 - INFO - 8.8.8.8 is UP with latency 301
+2026-02-23 22:30:54,065 - WARNING - High latency detected for 8.8.8.8
+2026-02-23 22:30:54,148 - INFO - 1.1.1.1 is UP with latency 4
+2026-02-23 22:30:54,230 - INFO - 192.168.1.1 is UP with latency 8
+2026-02-23 22:31:04,504 - INFO - 8.8.8.8 is UP with latency 33
+2026-02-23 22:31:04,707 - INFO - 1.1.1.1 is UP with latency 5
+2026-02-23 22:31:04,914 - INFO - 192.168.1.1 is UP with latency 71
+2026-02-23 22:31:15,103 - INFO - 8.8.8.8 is UP with latency 18
+2026-02-23 22:31:15,175 - INFO - 1.1.1.1 is UP with latency 3
+2026-02-23 22:31:15,236 - INFO - 192.168.1.1 is UP with latency 1
