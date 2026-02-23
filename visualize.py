@@ -7,6 +7,7 @@ data = data[data["Status"] == "UP"]
 
 data["Time"] = pd.to_datetime(data["Time"])
 
+
 for ip in data["IP"].unique():
     ip_data = data[data["IP"] == ip]
     plt.plot(ip_data["Time"], ip_data["Latency"], label=ip)
